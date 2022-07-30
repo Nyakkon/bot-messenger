@@ -36,7 +36,7 @@
 # <div align="center"> Select Languages For README </div>
 
   <div align="center">
-    <button style="background-color: red,"<a href="https://github.com/Nyakkon/bot-messenger/blob/master/README.md">🇻🇳Tiếng Việt</a>
+    <button style="background-color: red,"<a href="https://github.com/Nyakkon/bot-messenger/blob/master/README.md">🇻🇳Tiếng Việt</a></button>
     <a href="https://github.com/Nyakkon/bot-messenger/blob/master/ENGLISH.md">🇺🇲English</a>
   </div>
 
