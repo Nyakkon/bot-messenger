@@ -36,8 +36,8 @@
 # <div align="center"> Select Languages For README </div>
 
   <div align="center">
-    <a style="margin-right:10px" href="https://github.com/Nyakkon/bot-messenger/blob/master/README.md"><img src="https://raw.githubusercontent.com/Nyakkon/bot-messenger/master/img-for-readme.md/230px-Flag_of_North_Vietnam_(1955%E2%80%931976).svg.png" alt="vietnamese" width="50"></a>
-    <a style="margin-left:10px"href="https://github.com/Nyakkon/bot-messenger/blob/master/ENGLISH.md"><img src="https://raw.githubusercontent.com/Nyakkon/bot-messenger/master/img-for-readme.md/285px-Flag_of_the_United_States_(Pantone).svg.png" alt="english" width="60"></a>
+    <a href="https://github.com/Nyakkon/bot-messenger/blob/master/README.md"><img src="https://raw.githubusercontent.com/Nyakkon/bot-messenger/master/img-for-readme.md/230px-Flag_of_North_Vietnam_(1955%E2%80%931976).svg.png" alt="vietnamese" width="50"></a>
+    <a href="https://github.com/Nyakkon/bot-messenger/blob/master/ENGLISH.md"><img src="https://raw.githubusercontent.com/Nyakkon/bot-messenger/master/img-for-readme.md/285px-Flag_of_the_United_States_(Pantone).svg.png" alt="english" height="60"></a>
   </div>
 
 
