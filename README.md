@@ -4,10 +4,10 @@
     <img src="img-for-readme.md/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">CHATBOT MESSENGER FOR PAGE (Messenger Platform)</h3>
+  <h3 align="center">CHATBOT MESSENGER FOR PAGE (Messenger Platform) FROM COMMUNITY</h3>
 
   <p align="center">
-    Một Bot Chat Hoàn Toàn Tự Động Và Đơn Giản Cho Page!
+    Một Bot Chat Hoàn Toàn Tự Động Và Đơn Giản Cho Page! Đây là Branch Đóng Góp Từ Cộng Đồng, Không Phải Từ Master.
     <br />
     <a href="https://developers.facebook.com/docs/messenger-platform/webhooks"><strong>Explore the docs »</strong></a>
     <br />
