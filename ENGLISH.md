@@ -14,7 +14,7 @@
     <br />
     <a href="https://github.com/Nyakkon/bot-messenger/blob/main/package.json">Package Information</a>
     ·
-    <a href="https://github.com/Nyakkon/bot-messenger/blob/main/LICENSE.md">License</a>
+    <a href="https://github.com/Nyakkon/bot-messenger/blob/main/LICENSE">License</a>
     ·
     <a href="https://nyakko.me/donate">Donate</a>
     ·
@@ -181,7 +181,7 @@ If You Want To Contribute To Bot Development, Please Push Code To <a href="https
 
 ## 🌱License
 
-<p>This project is licensed under the [NYAKKO TEAM] License - see the <a href="https://github.com/Nyakkon/bot-messenger/blob/main/LICENSE.md">LICENSE.md</a> file for details</p>
+<p>This project is licensed under the [NYAKKO TEAM] License - see the <a href="https://github.com/Nyakkon/bot-messenger/blob/main/LICENSE">LICENSE</a> file for details</p>
 
 <a href="https://www.facebook.com/nyakko.neko/"><img align='right' src='./img-for-readme.md/0207d949207ceed00161d8b69587dc7d_328038560655400105.png' width='80"'></a>
 
