@@ -1,0 +1,17 @@
+// +------------------------------------------------------------------------+
+// | @author Nyakko (Anh Tuấn)
+// | @author_url 1: https://www.facebook.com/nyakko.neko
+// | @author_url 2: https://github.com/Nyakkon
+// | @author_email: kyuubi.yae@wibu.me
+// +------------------------------------------------------------------------+
+// | CHATBOT MESSENGER FOR PAGE (Messenger Platform)
+// | Copyright (c) 2022 Nyakko. All rights reserved.
+// +------------------------------------------------------------------------+
+
+
+/* Code Zone */
+
+
+{ 
+  "presets" : ["@babel/preset-env"]
+}
