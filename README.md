@@ -23,12 +23,16 @@
     <a href="https://nyakko.me">My Website</a>
   </p>
 </div>
+<br>
+    <div align="center"><a href="https://github.com/Nyakkon/bot-messenger/tree/community">Source Botchat From Community</a></div>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="./img-for-readme.md/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+
 
 
 # 🛠️Languages and NecessaryTools For Bot
@@ -148,6 +152,8 @@ Có Bất Kỳ Sự Cố Nào Xảy Ra, Vui Lòng Gửi Email Đến <a href="ma
 Bạn nào muốn mua cho mình cốc cà phê có thể nhấn nút dưới này nhé ^^
 
 <p align="center"><a href="https://nyakko.me/donate"> <img src="./img-for-readme.md/default-yellow.png" height="50" width="210" alt="aryasoni98" /></a></p>
+
+Nếu Muốn Đóng Góp Vào Phát Triển Của Bot, Hãy Push Code vào <a href="https://github.com/Nyakkon/bot-messenger/tree/community"Nhánh Community</a>
 
 ## 🧰Authors
 
