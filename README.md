@@ -157,7 +157,7 @@ npm install request
 
 ## 📬Help
 
-Có Bất Kỳ Sự Cố Nào Xảy Ra, Vui Lòng Gửi Email Đến <a href="mailto:kyuub.yae@wibu.me">kyuub.yae@wibu.me</a> Với Tiêu Đề "Hỗ Trợ Messenger Platform"
+Có Bất Kỳ Sự Cố Nào Xảy Ra, Vui Lòng Gửi Email Đến <a href="mailto:kyuubi.yae@wibu.me">kyuubi.yae@wibu.me</a> Với Tiêu Đề "Hỗ Trợ Messenger Platform"
 
 ## ⚡Donate
 
